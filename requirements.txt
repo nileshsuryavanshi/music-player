@@ -1,0 +1,5 @@
+mutagen==1.45.1
+Pillow==8.2.0
+python-vlc==3.0.12118
+tk==0.1.0
+ttkthemes==3.2.2
