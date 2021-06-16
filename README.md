@@ -31,6 +31,6 @@ To install the libraries on your system using `requirements.txt` file, use the c
 ## Support
 
 Reach me out at the following places!
-- [Linkedin](www.linkedin.com/in/nilesh-kumar-suryavanshi-26b251206)
+- [Linkedin](https://www.linkedin.com/in/nilesh-kumar-suryavanshi-26b251206)
 
 Also, you can follow me.
