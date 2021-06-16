@@ -1,6 +1,7 @@
 
 # Music player using Python
 In this project, I've used Python programming language to make a music player with modern GUI. It's GUI and back-end code have completely been written in python.
+
 ![fill](https://user-images.githubusercontent.com/77235287/105699820-fa27a000-5f2d-11eb-8207-8fe681155c6d.png)
 
 ## Author
